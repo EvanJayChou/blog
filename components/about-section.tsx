@@ -41,7 +41,7 @@ export function AboutSection() {
           <div className="relative">
             <div className="relative aspect-square bg-secondary rounded-2xl overflow-hidden">
               <Image
-                src="/profile.jpg"
+                src="./profile.jpg"
                 alt="Evan Chou"
                 fill
                 className="object-cover object-top"
